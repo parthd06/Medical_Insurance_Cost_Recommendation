@@ -50,11 +50,11 @@ To develop a machine learning model which can recommend the cost of insurance po
 
 
 ## Documentation:
-[Final Report](https://github.com/parthd06/SurfTheTurf/blob/main/Extras/Documentations/SurfTheTurf_FinalReport.docx.pdf)
+[Final Report](https://github.com/parthd06/Medical_Insurance_Cost_Recommendation/blob/main/Documents/ML_Mini_Project_Report.pdf)
 
-[Final Presentation](https://github.com/parthd06/SurfTheTurf/blob/main/Extras/Documentations/SurfTheTurf_Final_Presentation.pptx)
+[Final Presentation](https://github.com/parthd06/Medical_Insurance_Cost_Recommendation/blob/main/Documents/ML_Ppt.pptx)
 
-[Business Model Canvas](https://github.com/parthd06/SurfTheTurf/blob/main/Extras/Documentations/the-business-model-canvas-1.pdf)
+[Proposal](https://github.com/parthd06/Medical_Insurance_Cost_Recommendation/blob/main/Documents/ML_Mini_Project_Proposal.pdf)
 
 ## References:
 
