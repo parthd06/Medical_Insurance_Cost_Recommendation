@@ -18,6 +18,14 @@ To develop a machine learning model which can recommend the cost of insurance po
 - [@shivambhosale](https://github.com/ShivamB10)
 - [@harshkumarbhikadiya](https://github.com/Harshbhikadiya29)
 
+## Architectural Diagram:
+
+![App Screenshot4]()
+
+## Methodology:
+
+![App Screenshot5]()
+
 ## Project Screenshots:
 **Home Page:**
 
@@ -55,6 +63,12 @@ To develop a machine learning model which can recommend the cost of insurance po
 [Final Presentation](https://github.com/parthd06/Medical_Insurance_Cost_Recommendation/blob/main/Documents/ML_Ppt.pptx)
 
 [Proposal](https://github.com/parthd06/Medical_Insurance_Cost_Recommendation/blob/main/Documents/ML_Mini_Project_Proposal.pdf)
+
+## Conclusion:
+- In this project, we used linear regression for evaluating individual health insurance data. The predicted premiums from this model was compared with actual premiums to compare the accuracy of the model.
+- Various factors were used and their effect on predicted amount was examined. It was observed that a person’s age and smoking status affects the recommendation most. 
+- Premium amount recommendation focuses on person’s own health rather than other company’s insurance terms and conditions. The models can be applied to the data collected in coming years to recommend the premium. This can help not only people but also insurance companies to work in tandem for better and more health centric insurance amount.
+
 
 ## References:
 
