@@ -35,12 +35,19 @@ To develop a machine learning model which can recommend the cost of insurance po
 **Front-End:**
 - **HTML**
 - **CSS**
-- **JavaScript**
 - **Bootstrap**
 
 **Back-End:**
 - **Python**
 - **Flask**
+
+**Editor Tools:**
+- **VsCode/ PyCharm**
+- **Jupyter Notebook**
+
+**Dataset:** 
+- **Kaggle**
+
 
 ## Documentation:
 [Final Report](https://github.com/parthd06/SurfTheTurf/blob/main/Extras/Documentations/SurfTheTurf_FinalReport.docx.pdf)
