@@ -18,14 +18,6 @@ To develop a machine learning model which can recommend the cost of insurance po
 - [@shivambhosale](https://github.com/ShivamB10)
 - [@harshkumarbhikadiya](https://github.com/Harshbhikadiya29)
 
-## Features:
-- Email Confirmation on Booking
-- Advance Reservations and Online Booking
-- Real-time slot updates
-- Discount Vouchers
-- Razorpay Payment Gateway
-- Responsive & Mobile Friendly
-
 ## Project Screenshots:
 **Home Page:**
 
