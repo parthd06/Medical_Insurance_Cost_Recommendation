@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+  <title>Insureit</title>
+  <link rel="icon" href="/static/images/favicon.jpeg">
+
+  <!-- CSS  -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="static/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+</head>
+
+<body>
+  <div class="section no-pad-bot" id="index-banner">
+    <div class="container">
+      <br><br>
+      <h2 style="color: black;" class="header center">Medical Insurance Cost Recommendation</h2>
+      <div class="row center">
+        <h5 class="header col s12 light black-text">Get Recommendation for your Medical Insurance!
+        <br>
+        </h5>
+      </div>
+
+<div class="row">
+    <form action='/insurance_predict' method="post" class="col s12">
+      <div class="row">
+        <div class="input-field col s4" style="color: black;">
+            <label for="first_name" style="font-size: 20px;color:black"><b>Age(18-60)</b></label>
+            <br>
+            <input placeholder="" name="age" id="age" type="text" class="validate">
+        </div>
+
+        <div class="input-field col s4">
+            <label for="_name" style="font-size: 20px;color:black"><b>Gender(0:Male & 1:Female)</b></label>
+            <br>
+            <input id="_name" name="Gender" placeholder="" type="text" class="validate">
+        </div>
+
+        <div class="input-field col s4">
+            <label for="last_name" style="font-size: 20px; color:black"><b>BMI(16 - 50)</b></label>
+              <br>
+            <input id="bmi" name="bmi" placeholder=""  type="text" class="validate">
+          </div>
+
+        <div class="input-field col s4">
+
+            <label for="last_name" style="font-size: 20px;color:black"><b>Childrens</b></label>
+              <br>
+            <input id="children" name="children" placeholder=""  type="text" class="validate">
+  
+          </div>
+
+        <div class="input-field col s4">
+            <label for="smoker" style="font-size: 20px; color:rgba(0, 0, 0, 0.774)"><b>Do you Smoke?(0:Yes & 1:No)</b></label>
+            <br>
+            <input id="smoker" name="smoker" placeholder="" type="text" class="validate">
+        </div>
+      </div>
+
+      
+
+      <div class="row center">
+
+          <button type="submit" style="color:white" class="btn-large">Recommend</button>
+      </div>
+    </form>
+      </div>
+      
+    </div>
+  </div>
+
+    <br><br>
+  </div>
+  </div>>
+
+
+  <!--  Scripts-->
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="static/js/materialize.js"></script>
+  <!--script src="static/js/init.js"></script-->
+
+  </body>
+</html>
