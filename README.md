@@ -26,6 +26,16 @@ To develop a machine learning model which can recommend the cost of insurance po
 
 ![App Screenshot5]()
 
+## Implementation:
+**1.Dataset details**
+- The attributes of dataset are: Age,Sex,BMI,Children,Smoking habit.
+
+**2. Algorithm**
+- Linear Regression algorithm was used.
+
+**3.Performance metrics**
+- R-squared value
+
 ## Project Screenshots:
 **Home Page:**
 
