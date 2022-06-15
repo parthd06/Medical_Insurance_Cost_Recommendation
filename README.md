@@ -1,5 +1,5 @@
 
-# **Medical_Insurance_Cost_Recommendation**
+# Medical_Insurance_Cost_Recommendation: Insureit(Website)
 
 ## Introduction:
 - With the constant increasing prices of healthcare in our country, and with the ever-rising instances of diseases, health insurance today is a necessity. 
@@ -27,21 +27,17 @@ To develop a machine learning model which can recommend the cost of insurance po
 - Responsive & Mobile Friendly
 
 ## Project Screenshots:
-**Main Page:**
+**Home Page:**
 
-![App Screenshot1](https://github.com/parthd06/SurfTheTurf/blob/main/Extras/Screenshots/ss1.png)
+![App Screenshot1](https://github.com/parthd06/Medical_Insurance_Cost_Recommendation/blob/main/Images/ss3.png)
 
-**Sign Up Page:**
+**Input Page:**
 
-![App Screenshot3](https://github.com/parthd06/SurfTheTurf/blob/main/Extras/Screenshots/ss3.png)
+![App Screenshot2](https://github.com/parthd06/Medical_Insurance_Cost_Recommendation/blob/main/Images/ss4.png)
 
-Login Page:
+**Result Page:**
 
-![App Screenshot4](https://github.com/parthd06/SurfTheTurf/blob/main/Extras/Screenshots/ss4.png)
-
-Booking Page:
-
-![App Screenshot5](https://github.com/parthd06/SurfTheTurf/blob/main/Extras/Screenshots/ss5.png)
+![App Screenshot3](https://github.com/parthd06/Medical_Insurance_Cost_Recommendation/blob/main/Images/ss5.png)
 
 ## Tech Stack Used
 **Front-End:**
