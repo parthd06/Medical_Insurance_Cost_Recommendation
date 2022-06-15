@@ -84,6 +84,10 @@ To develop a machine learning model which can recommend the cost of insurance po
 - Various factors were used and their effect on predicted amount was examined. It was observed that a person’s age and smoking status affects the recommendation most. 
 - Premium amount recommendation focuses on person’s own health rather than other company’s insurance terms and conditions. The models can be applied to the data collected in coming years to recommend the premium. This can help not only people but also insurance companies to work in tandem for better and more health centric insurance amount.
 
+### Future Scope:
+- The current machine learning model is limited to accurate predictions of the specific age group hence in future scope we can increase the quality and accuracy of the dataset. 
+- The user interface can be improved and buying of new policies can be  incorporated. 
+- Inclusion of more parameters like chronic diseases, number of surgeries can be used in the future for better cost recommendation.
 
 ## References:
 
