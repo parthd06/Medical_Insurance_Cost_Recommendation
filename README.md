@@ -62,7 +62,7 @@ To develop a machine learning model which can recommend the cost of insurance po
 [1] Mohamed hanafy, Omar M. A. Mahmoud."Predict Health Insurance Cost by using Machine Learning and DNN Regression Models" International Journal of Innovative Technology and Exploring Engineering (IJITEE)(2021):2278-3075
 
 [2] Kaggle[online]
-https://www.kaggle.com/datasets/awaiskaggler/insurance-csv(Accessed:Jan 23, 2022)
+https://www.kaggle.com/datasets/awaiskaggler/insurance-csv (Accessed:Jan 23, 2022)
 
 [3] Researchgate.net.[Online]
 https://www.researchgate.net/publication/348559741_Predict_Health_Insurance_Cost_by_using_Machine_Learning_and_DNN_Regression_Models. (Accessed: 24-Jan-2022).
