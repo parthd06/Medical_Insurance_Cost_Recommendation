@@ -59,13 +59,13 @@ To develop a machine learning model which can recommend the cost of insurance po
 
 ## References:
 
-1.Dinesh A. Pol, Piyush V. Patil, Rahul Shinde, Rohan Dange “ Online Ground
-Booking System using Android Mobile Application” International Journal for
-Scientific Research & Development Vol. 7, Issue 10, 2019.(Accessed: July 23,
-2021)
+[1] Mohamed hanafy, Omar M. A. Mahmoud."Predict Health Insurance Cost by using Machine Learning and DNN Regression Models" International Journal of Innovative Technology and Exploring Engineering (IJITEE)(2021):2278-3075
 
-2.AvailableOnline:https://www.fatbit.com/fab/category/web-based-business-ideas/ (Accessed: July 24, 2021)
+[2] Kaggle[online]
+https://www.kaggle.com/datasets/awaiskaggler/insurance-csv(Accessed:Jan 23, 2022)
 
-3.AvailableOnline:https://softensy.com/how-to-create-payment-gateway-and-be
-come-a-payment-service-provider/(Accessed: July 25, 2021)
+[3] Researchgate.net.[Online]
+https://www.researchgate.net/publication/348559741_Predict_Health_Insurance_Cost_by_using_Machine_Learning_and_DNN_Regression_Models. (Accessed: 24-Jan-2022).
 
+[4] moneycrashers.[online]
+https://www.moneycrashers.com/factors-health-insurance-premium- costs(Accessed:Jan 23, 2022)
