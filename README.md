@@ -8,7 +8,7 @@
 ## Objectives:
 1.To build a Machine learning model to recommend insurance policy.
 
-2.To help the customer to be financially prepared in case of medical emergency
+2.To help the customer to be financially prepared in case of medical emergency.
 
 ## Problem Statement:
 To develop a machine learning model which can recommend the cost of insurance policy which a customer should purchase. This model will be able to recommend the cost of insurance to the customers based on their  BMI, age, medical history, and smoking habits.
