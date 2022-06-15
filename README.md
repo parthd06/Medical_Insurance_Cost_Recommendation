@@ -25,11 +25,11 @@ To develop a machine learning model which can recommend the cost of insurance po
 
 ## Architectural Diagram:
 
-![App Screenshot4]()
+![App Screenshot1](https://github.com/parthd06/Medical_Insurance_Cost_Recommendation/blob/main/Images/ss1.png)
 
 ## Methodology:
 
-![App Screenshot5]()
+![App Screenshot2](https://github.com/parthd06/Medical_Insurance_Cost_Recommendation/blob/main/Images/ss2.png)
 
 ## Implementation:
 **1.Dataset details**
