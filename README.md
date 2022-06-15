@@ -15,7 +15,7 @@ To develop a machine learning model which can recommend the cost of insurance po
 
 ## Demo Video:
 
-[]()
+[](https://user-images.githubusercontent.com/56031116/173902276-4f131798-d2d8-4e33-9522-61ad5453b727.mp4)
 
 ## Group Members:
 - [@parthdali](https://github.com/parthd06)
