@@ -11,7 +11,7 @@
 2.To help the customer to be financially prepared in case of medical emergency.
 
 ## Problem Statement:
-To develop a machine learning model which can recommend the cost of insurance policy which a customer should purchase. This model will be able to recommend the cost of insurance to the customers based on their  BMI, age, medical history, and smoking habits.
+To develop a machine learning model which can recommend the cost of an insurance policy that a customer should purchase. This model will be able to recommend the cost of insurance to the customers based on their  BMI, age, medical history, and smoking habits.
 
 ## Demo Video:
 
